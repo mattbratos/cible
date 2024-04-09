@@ -1,5 +1,4 @@
 London, UK - April 2024
-
 ![[01.webp]]
 
 Purpose: explain what is cible, why it makes sense and how is it going to work
@@ -9,7 +8,7 @@ I had this idea for a very long time in my head and I spontaneously decide to st
 Ok, so wtf is cyble? It's basically the new bible. Cible (pronounced "cyble "), short from Cyber bible. Why? Because it simple makes sense. I will explain it precislly be answering 3 following quesions:
 
 1. Why bible was amazing?
-2. How it works? 
+2. How it works?
 3. Why do we need an upgrade?
 4. What are main problems?
 5. How is it going to work?
@@ -20,7 +19,7 @@ Bible, and christianity as a whole was one of the greatest inventions of human r
 
 It surly wasn't an easy process but what made it possible was our unprecedented ability to collaborate with each other instead of fighting. I think it's very much thanks to Christianity and the Bible 1.0. Our neural networks ware trained on the same data so our thinking algorithms ware much more similar to each other. For example when medival peasants ware living in the same village they ware less afraid of their neighbour stealing goods from their houses because they know that neighbour understands for hell is the punishment for sins and working is more rational choice then infinite tortures. So even when people from different countries, but with the same religion believes, meet each other they can trust each other much more then without a common religion because the operate according to the same rules. They use the same playbook.
 
-### How it works? 
+### How it works?
 
 Let's imagine the Bible as a complex function within the grand program of human society. Let's break down its input, logic and output to understand its operation:
 
@@ -32,10 +31,10 @@ Let's imagine the Bible as a complex function within the grand program of human 
 
 - **Time Period:** The historical context, shaping the relevance and impact of its teachings.
 
-
 ### Logic:
 
 As all complicated functions bible as well has it's own sub-functions aka modules :
+
 #### Modules:
 
 - **Fear and Punishment:** This module instills fear of divine retribution through concepts like hell and divine wrath, promoting obedience through negative reinforcement.
@@ -76,26 +75,25 @@ I wrote a great essay about how internet hammer breaks many things in our societ
 
 ## How is it going to work?
 
-Idk precisely yet, but I have some idea how it should work. I think that we first should simply work on the initial version of Cible 1.0. I would love to write it alone and become the new Jesus but the quality would be infinitely worse then if it would be done in a collaborative way. I love writing about abstract shit but providing a moral guidance for anyone for that matter is beyond my qualifications. I think even thought it must be open source eventually, we should do that initially. My idea would be to build some research lab composed of the best 
-* Philosophers
-* Historians 
-* Scientists 
-* Hackers 
-* Founders 
-* Sociologist and so on 
-And just put them into some isolated place (like a greek island or something) and let them write essays, debate each other and collaboratively write version 1.0 in a year or so. Then we should just publish it and see what happens from there. Building and starting an online church is probably a very good idea with a mass or it's replacement on Sunday. Then starting the first physical church / it's replacement build a community and iterate based on the users feedback. 
+Idk precisely yet, but I have some idea how it should work. I think that we first should simply work on the initial version of Cible 1.0. I would love to write it alone and become the new Jesus but the quality would be infinitely worse then if it would be done in a collaborative way. I love writing about abstract shit but providing a moral guidance for anyone for that matter is beyond my qualifications. I think even thought it must be open source eventually, we should do that initially. My idea would be to build some research lab composed of the best
+
+- Philosophers
+- Historians
+- Scientists
+- Hackers
+- Founders
+- Sociologist and so on
+  And just put them into some isolated place (like a greek island or something) and let them write essays, debate each other and collaboratively write version 1.0 in a year or so. Then we should just publish it and see what happens from there. Building and starting an online church is probably a very good idea with a mass or it's replacement on Sunday. Then starting the first physical church / it's replacement build a community and iterate based on the users feedback.
 
 PS: it's very important to note that it should be completely out of sacrum domain. It's like a religion for atheists, that just provides users with:
 
-* Sensible moral code 
-* Rules for collaboration with each other 
-* Hope 
-* Identity 
-* Social order 
-* Purpose 
-* Community 
-* Sense of belonging 
-* Deeper world understanding 
-* Great playbook for life 
-
-
+- Sensible moral code
+- Rules for collaboration with each other
+- Hope
+- Identity
+- Social order
+- Purpose
+- Community
+- Sense of belonging
+- Deeper world understanding
+- Great playbook for life
