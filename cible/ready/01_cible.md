@@ -1,5 +1,7 @@
 London, UK - April 2024
+
 ![[01.webp]]
+
 
 Purpose: explain what is cible, why it makes sense and how is it going to work
 
