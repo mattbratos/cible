@@ -1,7 +1,7 @@
 # Vetus Cultura Renata Manifesto
 # Hesperian Manifesto
 
-![[02_manifesto_a.webp]]
+![[01_manifesto_a.webp]]
 
 <div style=
 "
