@@ -99,3 +99,48 @@ PS: it's very important to note that it should be completely out of sacrum domai
 - Sense of belonging
 - Deeper world understanding
 - Great playbook for life
+
+
+
+
+PS_2: 
+The good name for that would be something like: 
+* Cyberianism and the followers shuold be called cyberians 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
